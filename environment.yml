@@ -1,0 +1,27 @@
+name: atnresilience
+channels:
+- defaults
+dependencies:
+# - basemap
+# see basemap installation instructions : < https://matplotlib.org/basemap/users/installing.html#installation >
+- calendar
+- csv
+- copy
+- datetime
+- jupyter
+- math
+- matplotlib
+- networkx
+- numpy
+- os
+- pandas
+- pip
+- pytest
+- python=3
+- scipy
+- seaborn
+- sqlalchemy
+- sqlite3
+- random
+
+prefix: /Users/httran/anaconda3/envs/atnresilience
